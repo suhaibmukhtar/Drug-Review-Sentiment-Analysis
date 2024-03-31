@@ -7,6 +7,7 @@ The Drug Review Sentiment Analysis project focuses on employing various deep lea
 3) By automating the sentiment analysis process, corporations can efficiently gather and process feedback about their products, enabling data-driven decision-making and proactive issue resolution.
 
 # FrameWork
+![Project FrameWork](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/blob/main/Images/Frame_Work.drawio%20(1).png)
 
 ## Key Features
 Utilization of LSTM, Bi-LSTM, LSTM+GRU, and BERT deep learning models for sentiment analysis.
