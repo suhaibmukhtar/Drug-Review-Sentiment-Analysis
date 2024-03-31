@@ -18,10 +18,29 @@ Implementation of data preprocessing steps including HTML tag removal, URL remov
 ## Datasets
 Two datasets were utilized, sourced from Kaggle and the UCI ML repository, containing 162,000 and 360,000 rows respectively. Each dataset includes reviews and corresponding customer satisfaction levels categorized as positive, neutral, or negative.
 # Data Acquisition:
-Data collected from Kaggle and UCI ML repository.
+Data collected from Kaggle and UCI ML repository.<br>
+Dataset1 URL:https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018<br>
+Dataset2 URL: https://www.kaggle.com/datasets/rohanharode07/webmd-drug-reviews-dataset
+Also available in the Dataset sub-repository of this project.
 # Data Preprocessing:
 Removal of unwanted information using various techniques.
-Handling imbalanced datasets through oversampling.
+Techniques used for Data Pre-Processing are
+### 1) Removing HTML tags
+### 2) Removing URL's
+### 3) Removing punctuations
+### 4) Removing stop words
+### 5) Chat word treatment
+### 6) Tokenization
+### 7) Stemming
+### 8) Lemmatization.
+## Below Image Shows Data After Preporcessing and Data Before PreProcessing.
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/d0c352f1-7d6a-4aa9-80e6-a03de341723a)
+## Handling imbalanced datasets through oversampling.
+Using Oversampling Technique to address class imbalace in the dataset. Class imablance leads to biased results.
+<div style="display: flex;">
+    <img src="https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/df39367c-ddd0-4244-86b6-09ebbfb1dc90" alt="Data distributio before" style="width: 45%;">
+    <img src="https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/2c992805-2cad-4e9d-b96c-1ff6d7a30a23" alt="Data Distibution After" style="width: 45%;">
+</div>
 Conversion of text into numeric form using word embedding techniques.
 # Model Selection:
 Choose from LSTM, Bi-LSTM, LSTM+GRU, and BERT architectures based on the context preservation requirement.
