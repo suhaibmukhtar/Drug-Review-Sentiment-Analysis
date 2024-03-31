@@ -1,4 +1,4 @@
-# Drug Review Sentiment Analysis Using Various Deep Learning Architectures
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/d3259b81-1bd4-44cc-80ab-e185050c03f1)# Drug Review Sentiment Analysis Using Various Deep Learning Architectures
 ## Project Overview
 The Drug Review Sentiment Analysis project focuses on employing various deep learning architectures to analyze sentiments expressed in drug reviews. In this project i have analyzed the customer feedback or reviews of drug products and have classified them based on the sentiment of the words present in the reviews into Positive, Neutral and Negative.
 ## Purpose of Project:
@@ -66,18 +66,29 @@ As our data is sequential and we know the Recurrent Neural networks and its adva
 ![lstm](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/blob/main/Images/lstm.png)
 ## Models used are:
 ### 1.LSTM
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/16c26e48-d16e-4035-9492-32e8332f9e78)
 ### 2.Bi-LSTM
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/ed04116c-f7d8-4f29-bc19-5e74b7a3af6c)
 ### 3.LSTM+GRU
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/c711bc20-c4ff-4fa6-b69d-1594613e72f6)
+
 ### 4.BERT architectures based on the context preservation requirement.
 Model Training and Evaluation:
 Train models on the prepared datasets.
 Evaluate model performance using appropriate metrics.
+
+## Results:
+Performance of deep learning models using imbalanced dataset.
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/eb9857fd-8718-4025-9032-362fa86c49f1)
+Performance of deep learning models using balanced dataset.
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/2634f84f-8ba6-43aa-83a5-75f9e4792c1b)
+
 # Objectives
-Aid in drug safety monitoring, market research, and healthcare provider-patient communication.
-Identify potential adverse reactions and side effects through sentiment analysis.
-Identify areas of improvement in existing medications.
-Align with Agile Methodology by facilitating data-driven decisions and iterative improvements.
-Motivation
+Aid in drug safety monitoring, market research, and healthcare provider-patient communication.<br>
+Identify potential adverse reactions and side effects through sentiment analysis.<br>
+Identify areas of improvement in existing medications.<br>
+Align with Agile Methodology by facilitating data-driven decisions and iterative improvements.<br>
+## Motivation
 Address the issue of substandard or falsified medical products.
 Enhance pharmacovigilance systems through automated analysis of user reviews.
 Provide personalized care and treatment plans by understanding patient perspectives.
