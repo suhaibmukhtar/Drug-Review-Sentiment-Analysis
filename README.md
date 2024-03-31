@@ -62,7 +62,13 @@ Bag of words.
    
    
 # Model Selection:
-Choose from LSTM, Bi-LSTM, LSTM+GRU, and BERT architectures based on the context preservation requirement.
+As our data is sequential and we know the Recurrent Neural networks and its advance version work well with it.
+![lstm](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/blob/main/Images/lstm.png)
+## Models used are:
+### 1.LSTM
+### 2.Bi-LSTM
+### 3.LSTM+GRU
+### 4.BERT architectures based on the context preservation requirement.
 Model Training and Evaluation:
 Train models on the prepared datasets.
 Evaluate model performance using appropriate metrics.
