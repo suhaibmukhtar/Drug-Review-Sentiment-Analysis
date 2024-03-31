@@ -1,4 +1,4 @@
-![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/d3259b81-1bd4-44cc-80ab-e185050c03f1)# Drug Review Sentiment Analysis Using Various Deep Learning Architectures
+# Drug Review Sentiment Analysis Using Various Deep Learning Architectures
 ## Project Overview
 The Drug Review Sentiment Analysis project focuses on employing various deep learning architectures to analyze sentiments expressed in drug reviews. In this project i have analyzed the customer feedback or reviews of drug products and have classified them based on the sentiment of the words present in the reviews into Positive, Neutral and Negative.
 ## Purpose of Project:
@@ -82,6 +82,13 @@ Performance of deep learning models using imbalanced dataset.
 ![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/eb9857fd-8718-4025-9032-362fa86c49f1)
 Performance of deep learning models using balanced dataset.
 ![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/2634f84f-8ba6-43aa-83a5-75f9e4792c1b)
+### Confusion matrix of LSTM
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/bdcb92c2-f041-4aa9-b046-df4fcae4cbb2)
+### Confusion matrix of Bi-LSTM
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/5120ec58-150f-41a6-900a-7274c4af4f60)
+### Confusion matrix of LSTM+GRU
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/5830bae9-b96b-42c0-b35a-3bea443dafcc)
+
 
 # Objectives
 Aid in drug safety monitoring, market research, and healthcare provider-patient communication.<br>
