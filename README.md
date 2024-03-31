@@ -41,7 +41,26 @@ Using Oversampling Technique to address class imbalace in the dataset. Class ima
     <img src="https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/df39367c-ddd0-4244-86b6-09ebbfb1dc90" alt="Data distributio before" style="width: 45%;">
     <img src="https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/2c992805-2cad-4e9d-b96c-1ff6d7a30a23" alt="Data Distibution After" style="width: 45%;">
 </div>
-Conversion of text into numeric form using word embedding techniques.
+<div style="display: flex;">
+    <img src="https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/9af61d98-c929-4809-95f7-adadd79016df" alt="Data count before" style="width: 45%;">
+    <img src="https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/ee7fabae-63e9-4f71-a2f0-dbf355ff0dae" alt="Data count After" style="width: 45%;">
+</div>
+
+## Text Representation
+Our deep learning  model will not be able to understand the textual data as humans would.
+Textual data is converted in numeric form.
+It is must that context of the words must be preserved or maintained.
+It helps the model to capture the semantic meaning.
+### Techniques:
+Label encoding / integer encoding.
+One Hot Encoding.
+Bag of words.
+#### Word Embedding
+**FastText**: a library used for generating word embeddings of words.
+1) For this technique we have used the word Embeddings called the FastText, which is improved version of the Glove Word Embeddings and it provide the character embeddings rather than word embeddings.
+![word embedding](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/blob/main/Images/OIP.jpg)
+   
+   
 # Model Selection:
 Choose from LSTM, Bi-LSTM, LSTM+GRU, and BERT architectures based on the context preservation requirement.
 Model Training and Evaluation:
