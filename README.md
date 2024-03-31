@@ -95,7 +95,17 @@ Performance of deep learning models using balanced dataset.
 ![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/0e30b40c-1e26-4948-a639-a47d9640da7a)
 
 # References
-![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/5e0e0843-6fc4-4d5d-b804-18841b6df2d2)
+1) Cristóbal Colón-Ruiz, Isabel Segura-Bedmar, Volume 110, (October 2020) Comparing deep learning architectures for sentiment analysis on drug reviews.
+2) Sebastian Kula, Rafal Kozik and Michal Choras (2021) Implementation of the BERT-derived architectures to tackle disinformation challenges
+3) Ray Oshikawa, Jing Qian, William Yang Wang (2018) A Survey on Natural Language Processing for Fake News Detection
+4) BERT-LSTM model for sarcasm detection in code-mixed social media post (10 oct 2022)
+5) Rajnish Pandey& Jyoti Prakash Singh : Journal of Intelligent Information Systems 
+6) Sebastian Kula, Rafal Kozik and Michal Choras (2021) Implementation of the BERT-derived architectures Tackle disinformation challenges.
+7) Shin J, Jian L, Driscoll K, Bar F (2018) The diffusion of misinformation on social media Temporal pattern, message and source.
+8) Chen W, Zhang Y, Yeo CK, Lau CT, Sung Lee B (2018) Unsupervised rumor detection based on users' behaviors using neural networks.
+9) Vinodhini Gopalakrishnan, Chandrasekaran Ramaswamy, Volume 15, Issue 4, (August 2017), Patient opinion mining to analyze drugs satisfaction using supervised learning.
+
+
 
 
 
@@ -117,3 +127,4 @@ Owais & irfan: Presentations and documentation.
 Contact:
 suhaibmukhtar2@gmail.com
 Provide contact information for support or inquiries.
+suhaibmukhtar.io.github.com
