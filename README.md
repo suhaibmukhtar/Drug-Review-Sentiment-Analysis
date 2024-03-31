@@ -82,12 +82,21 @@ Performance of deep learning models using imbalanced dataset.
 ![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/eb9857fd-8718-4025-9032-362fa86c49f1)
 Performance of deep learning models using balanced dataset.
 ![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/2634f84f-8ba6-43aa-83a5-75f9e4792c1b)
-### Confusion matrix of LSTM
 ![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/bdcb92c2-f041-4aa9-b046-df4fcae4cbb2)
-### Confusion matrix of Bi-LSTM
 ![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/5120ec58-150f-41a6-900a-7274c4af4f60)
-### Confusion matrix of LSTM+GRU
 ![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/5830bae9-b96b-42c0-b35a-3bea443dafcc)
+# Classification Reports
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/ffce020d-7b2c-4403-baa3-c0a41a521b43)
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/e679ca93-25db-4790-be48-c4070df6f2e7)
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/e177920e-ff2e-460a-a190-c1305af5f1f8)
+# Loss accuracy Curve
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/1f72413f-c309-48a5-a887-1fa6a05cbd8f)
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/d01ee6e0-ac5f-4b12-97b8-87560e7ec069)
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/0e30b40c-1e26-4948-a639-a47d9640da7a)
+
+# References
+![image](https://github.com/suhaibmukhtar/Drug-Review-Sentiment-Analysis/assets/82581514/5e0e0843-6fc4-4d5d-b804-18841b6df2d2)
+
 
 
 # Objectives
