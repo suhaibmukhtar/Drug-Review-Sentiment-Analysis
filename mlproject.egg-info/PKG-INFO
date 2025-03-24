@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: mlproject
+Version: 0.0.1
+Author: SuhaibMukhtar
+Author-email: suhaibmukhtar2@gmail.com
+License-File: LICENSE
+Requires-Dist: nltk
+Requires-Dist: tensorflow
+Requires-Dist: keras
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
