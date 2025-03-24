@@ -9,6 +9,16 @@ Requires-Dist: tensorflow
 Requires-Dist: keras
 Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: ipykernel
+Requires-Dist: pickledb
+Requires-Dist: mlflow
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
 Dynamic: author
 Dynamic: author-email
 Dynamic: license-file

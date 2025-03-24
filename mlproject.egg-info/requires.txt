@@ -3,3 +3,13 @@ tensorflow
 keras
 pandas
 numpy
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+ipykernel
+pickledb
+mlflow
+fastapi
+uvicorn
